@@ -6,56 +6,6 @@
   ],
   "challenges": [
     {
-      "id": "sporran-four-push",
-      "name": "4 pushes 0--0--0",
-      "creator": "Sporran",
-      "creatorDisplay": "Sporran",
-      "attackingTeam": "Elven Union",
-      "defendingTeam": null,
-      "defenceFormation": "Generic three-player line",
-      "rulesetId": "BB2025",
-      "rosterVersion": "BB2025",
-      "pushes": 4,
-      "difficulty": "Intermediate",
-      "tags": [
-        "chain push",
-        "4 pushes",
-        "generic mechanics"
-      ],
-      "skillsRequired": [],
-      "setupVariant": "Standard positional demonstration",
-      "description": "Four-push training sequence against a generic defensive front line. Recordings demonstrate mechanics; dice and rules legality have not been independently verified.",
-      "reviewStatus": "Demonstration",
-      "published": true,
-      "file": "data/sequences/sporran-four-push.json",
-      "defenceId": "generic-los-3",
-      "coachNotes": "This is a demonstration of the chain-push mechanics. The initial opposing players do not represent a verified race-specific defensive formation.",
-      "resistance": "Unrated",
-      "probability": null,
-      "probabilityContext": "No dice probabilities have been calculated for this demonstration.",
-      "related": [
-        {
-          "id": "branch-early-knockdown",
-          "label": "Early knockdown — investigate a different route",
-          "reason": "A relevant early block knocks the target down rather than leaving a standing player available for subsequent repositioning.",
-          "condition": "Block result"
-        },
-        {
-          "id": "branch-extra-push",
-          "label": "Extra forward push — reduce Rush requirements",
-          "reason": "The coach can arrange one additional legal forward chain push.",
-          "condition": "Movement choice"
-        },
-        {
-          "id": "branch-side-step",
-          "label": "Side Step defender — adapt the chain push",
-          "reason": "A defender with Side Step chooses a square that interrupts the expected push route.",
-          "condition": "Defensive skill"
-        }
-      ],
-      "ma": 8
-    },
-    {
       "id": "ma7-ss-5push-9player-space-backline",
       "name": "MA7 - 5 push sidestep - 9 players",
       "creator": "Sporran",
@@ -91,43 +41,10 @@
       "description": "Three defending linemen on the line of scrimmage. An introductory formation for learning how pushes work; not ranked as effective defence.",
       "resistance": "Unrated",
       "notes": "The demonstration has no verified defensive race, skills or tactical effectiveness. Coaches can replace the opposing players or add a full defensive team in Free Play.",
-      "relatedChallengeIds": [
-        "sporran-four-push"
-      ],
+      "relatedChallengeIds": [],
       "published": true,
       "file": "data/defences/generic-los-3.json"
     }
   ],
-  "plannedAlternatives": [
-    {
-      "id": "branch-early-knockdown",
-      "sourceId": "sporran-four-push",
-      "name": "Early knockdown — investigate a different route",
-      "trigger": "A relevant early block knocks the target down rather than leaving a standing player available for subsequent repositioning.",
-      "description": "Investigate a legal alternative when the intended chain-push arrangement cannot continue after a knockdown. This may require a different scorer or different blocking route, or may have no viable continuation.",
-      "category": "Block result",
-      "status": "Awaiting recording",
-      "published": false
-    },
-    {
-      "id": "branch-extra-push",
-      "sourceId": "sporran-four-push",
-      "name": "Extra forward push — reduce Rush requirements",
-      "trigger": "The coach can arrange one additional legal forward chain push.",
-      "description": "Explore whether an additional push can reduce the required Rush rolls for the intended scorer. The current recording does not demonstrate this route and its feasibility is unverified.",
-      "category": "Movement choice",
-      "status": "Awaiting recording",
-      "published": false
-    },
-    {
-      "id": "branch-side-step",
-      "sourceId": "sporran-four-push",
-      "name": "Side Step defender — adapt the chain push",
-      "trigger": "A defender with Side Step chooses a square that interrupts the expected push route.",
-      "description": "Construct and record a solution, if one exists, against an appropriate Side Step defender. This is a different hypothetical matchup, not an alternative already demonstrated in the original recording.",
-      "category": "Defensive skill",
-      "status": "Awaiting recording",
-      "published": false
-    }
-  ]
+  "plannedAlternatives": []
 }
