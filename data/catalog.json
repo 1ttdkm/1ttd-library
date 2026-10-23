@@ -54,6 +54,30 @@
         }
       ],
       "ma": 8
+    },
+    {
+      "id": "ma7-ss-5push-9player-space-backline",
+      "name": "MA7 - 5 push sidestep - 9 players",
+      "creator": "Sporran",
+      "creatorDisplay": "Sporran",
+      "attackingTeam": "Shambling Undead",
+      "defendingTeam": null,
+      "ma": 7,
+      "rulesetId": "BB2025",
+      "rosterVersion": "BB2025",
+      "difficulty": "Unrated",
+      "pushes": null,
+      "description": "MA7 with sidestep - 5 push - 9 players - spaced LOS & backline",
+      "reviewStatus": "Demonstration",
+      "published": true,
+      "file": "data/sequences/ma7-ss-5push-9player-space-backline.json",
+      "coachNotes": "",
+      "skillsRequired": [],
+      "tags": [],
+      "scorerPosition": "Ghoul Runner",
+      "scorerMA": 7,
+      "sourceCreator": "Blood Bowl Stuff",
+      "sourceUrl": "https://youtu.be/yrqnUiX5ENI?si=iJs0EnAW6tgNf2r3"
     }
   ],
   "defences": [
