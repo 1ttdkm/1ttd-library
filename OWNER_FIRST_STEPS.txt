@@ -1,0 +1,10 @@
+1TTD TRAINER — NEXT STEPS
+
+STEP 1: Create a free GitHub account (or sign in).
+STEP 2: Make a new PUBLIC repository named 1ttd-library with no auto-generated README.
+STEP 3: Unzip this package, upload its contents via Add file > Upload files; commit.
+STEP 4: Settings > Pages > Deploy from a branch > main > /(root) > Save.
+STEP 5: Send the repository URL or published GitHub Pages URL back to ChatGPT.
+
+IMPORTANT: Do not upload your private admin folder or Netlify website ZIP.
+This is only the public solution library. The existing site at 1ttd.co.uk remains unchanged until a separate integration release is completed.

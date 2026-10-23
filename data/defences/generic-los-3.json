@@ -1,0 +1,47 @@
+{
+  "app": "Sporran1TTDLab",
+  "formatVersion": 1,
+  "type": "defence",
+  "pitch": {
+    "width": 15,
+    "height": 26
+  },
+  "payload": {
+    "name": "Generic three-player LOS",
+    "players": [
+      {
+        "id": "id-55187fe4-7ba5-493a-b713-6abdaf504b8f",
+        "team": "away",
+        "type": "L",
+        "x": 4,
+        "y": 12,
+        "status": "blue",
+        "ball": false,
+        "frenzy": false,
+        "sidestep": false
+      },
+      {
+        "id": "id-6dde1984-24ac-45c5-a892-e1aeb9ee4791",
+        "team": "away",
+        "type": "L",
+        "x": 7,
+        "y": 12,
+        "status": "blue",
+        "ball": false,
+        "frenzy": false,
+        "sidestep": false
+      },
+      {
+        "id": "id-90d36ebc-d39b-49ec-aa64-f3f99b5af6d0",
+        "team": "away",
+        "type": "L",
+        "x": 10,
+        "y": 12,
+        "status": "blue",
+        "ball": false,
+        "frenzy": false,
+        "sidestep": false
+      }
+    ]
+  }
+}
