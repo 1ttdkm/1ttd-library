@@ -65,7 +65,9 @@
       "branchCategory": null,
       "file": "data/sequences/ma7-5-pushes-wide-los-backline-8670b.json",
       "sourceCreator": "Blood Bowl Stuff",
-      "sourceUrl": "https://youtu.be/vKwdamkyA4o?si=cr3mHlMVF_hWnvxT"
+      "sourceUrl": "https://youtu.be/vKwdamkyA4o?si=cr3mHlMVF_hWnvxT",
+      "ma": 7,
+      "scorerMA": 7
     },
     {
       "id": "ma7-5push-sidestep-9players-wide-los-backline-1062c",
@@ -101,7 +103,9 @@
       "branchCategory": null,
       "file": "data/sequences/ma7-5push-sidestep-9players-wide-los-backline-1062c.json",
       "sourceCreator": "Blood Bowl Stuff",
-      "sourceUrl": "https://youtu.be/DQYXToYN9-U?si=4Lyzr5KJvNlTWMz9"
+      "sourceUrl": "https://youtu.be/DQYXToYN9-U?si=4Lyzr5KJvNlTWMz9",
+      "ma": 7,
+      "scorerMA": 7
     }
   ],
   "defences": [
@@ -122,4 +126,3 @@
   ],
   "plannedAlternatives": []
 }
-
